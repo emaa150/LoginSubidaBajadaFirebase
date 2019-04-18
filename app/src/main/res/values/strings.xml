@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FirebasePlatzi</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="create_account_button">CreateAccount</string>
+    <string name="sing_in_button">Sing In</string>
+    <string name="welcome">Welcome To Platzi</string>
+    <string name="sing_button_out">Sign Out</string>
+    <string name="descargar">Descargar</string>
+    <string name="CARGAR">Cargar</string>
+</resources>
